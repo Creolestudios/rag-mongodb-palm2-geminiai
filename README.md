@@ -47,3 +47,6 @@ Please read CONTRIBUTING.md for details on our code of conduct, and the process 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Video Explanation
+For a detailed video explanation of the project, [click here](https://drive.google.com/file/d/1jbVuYctNXP3hLK3zhHncsRPauRJFiMma/view?usp=drive_link).
