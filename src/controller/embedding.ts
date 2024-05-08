@@ -45,7 +45,7 @@ const doEmbeddingData = async (req: Request, res: Response, next: NextFunction) 
     else {
       //send message that collection exists
       return res.status(200).json({
-        message: 'Collection exists'
+        message: 'Embedding and chunks stored in vector DB'
       });
 
     }
